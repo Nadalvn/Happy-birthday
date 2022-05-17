@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    font-family: Courier New;
+}
+body{
+    padding: 25px;
+    background-image: url(./50-Beautiful-and-Minimalist-Presentation-Backgrounds-02.jpg);
+    background-size: 100%;
+}
+.title{
+    font-size: 60px;
+}
+.emoji{
+    font-size: 50px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+p{
+    font-size: 50px;
+}
